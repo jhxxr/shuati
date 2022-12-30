@@ -7,4 +7,10 @@ const JSONList = [
     { id: "202201", name: '第三章练习卷', describe: '近代史纲要', file: "第三章.json" },
     { id: "202201", name: '第四章练习卷', describe: '近代史纲要', file: "第四章.json" },
     { id: "202201", name: '第五章练习卷', describe: '近代史纲要', file: "第五章.json" },
+    { id: "202201", name: '第五章练习卷', describe: '近代史纲要', file: "第五章.json" },
+    { id: "202201", name: '第六章练习卷', describe: '近代史纲要', file: "第六章.json" },
+    { id: "202201", name: '第七章练习卷', describe: '近代史纲要', file: "第七章.json" },
+    { id: "202201", name: '第八章练习卷', describe: '近代史纲要', file: "第八章.json" },
+    { id: "202201", name: '第九章练习卷', describe: '近代史纲要', file: "第九章.json" },
+    { id: "202201", name: '第十章练习卷', describe: '近代史纲要', file: "第十章.json" },
 ]
