@@ -17,6 +17,6 @@ const JSONList = [
     { id: "202315", name: '第十四章', describe: '习近平新时代中国特色社会主义思想概论', file: "part14.json" },
     { id: "202316", name: '第十五章', describe: '习近平新时代中国特色社会主义思想概论', file: "part15.json" },
     { id: "202317", name: '第十六章', describe: '习近平新时代中国特色社会主义思想概论', file: "part16.json" },
-    { id: "202318", name: '第十七章', describe: '习近平新时代中国特色社会主义思想概论', file: "part17.json" }
+    { id: "202318", name: '第十七章', describe: '习近平新时代中国特色社会主义思想概论', file: "part17.json" },
 
 ]
